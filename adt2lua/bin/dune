@@ -1,0 +1,4 @@
+(executable
+ (public_name adt2lua)
+ (name main)
+ (libraries adt2lua))

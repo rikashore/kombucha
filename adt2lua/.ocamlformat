@@ -1,0 +1,5 @@
+profile = default
+version = 0.26.1
+break-cases = toplevel
+type-decl = sparse
+field-space = tight-decl
